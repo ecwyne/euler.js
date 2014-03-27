@@ -1,4 +1,4 @@
 euler.js
 ========
 
-Crowd sourced solutions to problems on ProjectEuler.net
+Crowd sourced solutions to problems on http://ProjectEuler.net

@@ -1,6 +1,6 @@
 euler.js
 ========
-This is a work in progress...
+This is still a work in progress...
 
 Crowd sourced solutions to problems on http://ProjectEuler.net
 

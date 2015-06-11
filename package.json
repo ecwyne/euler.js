@@ -1,0 +1,22 @@
+{
+  "name": "euler.js",
+  "version": "0.0.0",
+  "description": "euler.js\r ========\r This is still a work in progress...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecwyne/euler.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecwyne/euler.js/issues"
+  },
+  "homepage": "https://github.com/ecwyne/euler.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
